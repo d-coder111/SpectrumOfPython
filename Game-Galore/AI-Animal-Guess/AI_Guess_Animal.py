@@ -4,7 +4,7 @@ import os
 class AnimalGame:
     def __init__(self):
         # Load animal data from a JSON file or create a default one if it doesn't exist
-        self.folder_name = 'Game-Galore'
+        self.folder_name = 'Game-Galore/AI-Animal-Guess'
         self.data_file = os.path.join(self.folder_name, 'animals.json')
         self.animals = self.load_data()
 
