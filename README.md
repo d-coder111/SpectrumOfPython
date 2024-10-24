@@ -111,7 +111,8 @@ python main.py
 ```
 ---
 
-📌Add 📂 Project folder inside the above categorized folders📂.
+### 📌Add 📂 Project folder inside the above categorized folders📂.
+
 ## 📬 Request a Project
 
 Do you have an idea for a Python project you'd like to see in **SpectrumOfPython**? Submit a request by opening an issue with the label `Project Request`. 
